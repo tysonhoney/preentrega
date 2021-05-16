@@ -1,0 +1,213 @@
+.logo { 
+   
+    transform: scale(1.5);
+    transition: 2s;
+    text-align: justify;
+}
+ 
+.htxt {
+   font-size: 100px;
+   font-family: 'Great Vibes', cursive;
+   background-clip: border-box;
+   text-align: center;
+}
+form{
+    width: 450px;
+    margin: auto;
+    background-color: black;
+    padding: 10px 20px;
+
+}
+div {
+    text-align: center;
+}
+.rounded-circle {
+    text-align: center;
+}
+ .parf
+{
+    text-align: center;
+    display: inline-block;
+     font-family: cursive;
+     font-weight: bold;
+     font-style: italic;
+     font-size: 30px;
+     margin: 10px 10px 10px 12px;
+     padding: 10px 10px 10px 12px ;
+}
+
+.descripcion {
+    background-color: #ca68b2;
+    text-align: center;
+    height: 70;
+    width: 100;
+}
+h3{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+form
+{
+    display:contents;
+    text-decoration: none;
+    padding-inline-end: 30rem;
+    background-color:black;
+    
+    
+}
+
+body {
+
+    background-image: linear-gradient(#e6a5d5, #f1cdeb);
+
+ }
+
+
+ ul {
+    list-style: none;
+    font-size: 20px
+ }
+ li {
+     background-color: black;
+ }
+ 
+ a:hover {
+    background-color: #555;
+    display: inline-flex
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Great Vibes', cursive;
+
+}
+.container{
+    width: 100%;
+    max-width: 1400px;
+    height: 530px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    margin: auto;
+    background-color: gray;
+}
+.container .card{
+    width: 300px;
+    height: 430px;
+    border-radius: 8px;
+    box-shadow: o 2px 2px ;
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    transition: all 0,25s;
+}
+.container .card:hover {
+    transform: translateY(-15px);
+    overflow: hidden;
+} 
+
+
+.container .card h4{
+    font-weight: 20;
+    font-family: 'Great Vibes', cursive;
+    border-radius: 8px;
+    box-shadow: o 2px 2px ;
+
+}
+.header {
+    color: rgb(78, 72, 72);
+    font-size: 27px;
+    padding: 10px;
+}
+.container .formulario{
+    padding-inline-end: 40rem;
+    margin: 40px;
+    background-color: #ca68b2;
+    background-size: 100%;
+}
+.bigicon {
+    font-size: 35px;
+    color:#555;
+}
+
+.card-header{
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.card-text{
+    font-size: 25px;
+}
+  
+.titulogaleria{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Courgette', cursive;
+}
+
+
+.izquierda {
+    background: #ca68b2;
+    height: 98vh;
+    
+
+}
+.derecha{
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+
+}
+#pantalla-dividida{
+    display: flex;
+}
+.referencia{
+    color: #fbfdfd;
+
+
+}
+iframe{
+    background-position: center;
+    background-size: cover;
+}
+.titulo-qs{
+    font-size: 60px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.p-qs{
+    font-size: 19px;
+    line-height: 30px;
+    width: 50%;
+    margin: auto;
+}
+h5{
+    font-size: 70px;
+    width: 50%;
+    text-align:end;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+.parrafo-inicio{
+    font-size: 25px;
+    font-family:font-family: 'Great Vibes', cursive;
+    margin-bottom: auto;
+}
+
+    @media (min-width: 600px) {
+        div.example {
+        font-size: 80px;
+        }
+        @media (max-width: 600px) {
+        div.example {
+        font-size: 30px;
+        }
+        
